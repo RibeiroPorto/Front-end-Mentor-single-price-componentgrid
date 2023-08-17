@@ -1,0 +1,27 @@
+1- estruturar html
+    1- criar main 
+    2 - criar 2 contianers na main
+        1- criar h1 h3 e p
+        2- criar 2 div
+            1- criar h4 p span p a
+            2- criar h4  p
+2- criar estilos
+    0- CRiar Reset
+    1- criar variaveis E importar fontes
+    2- no body - display flex e centralizar
+    3- no main dar flex e dar tamanho ao container
+    2 - no container de cima - dar tamanho aos textos
+                             - posicionar
+                             - adicionar fonte e cor
+    3- no container de baixo - display flex
+                             dar tamanho e posicãos aos conteiners filhos
+    4- no container de baixo direita 
+                            -posicionar elementos
+                            - dar cor e fonte
+    5- no container de baixo direita 
+                            -posicionar elementos
+                            - dar cor e fonte
+    6 - adicionar hover
+    7 -responsividade
+        1- mudar flex direction no container de baixo
+        2 - mudar tamanho do container de cima
